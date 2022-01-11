@@ -1,7 +1,3 @@
----
-title: Git & GitHub
----
-
 # Introduction to Git and Github 
 
 View [workshop slides](https://alicemcgrath.digital.brynmawr.edu/pres/git-hack.html)
