@@ -11,5 +11,5 @@ For inspiration, check out last year's hack-a-thon projects on the [2021 Hackath
 ## Workshops
 
 - Self-paced [Introduction to FastAPI](fastapi.md) by Andy Janco (Digital Scholarship Specialist, Haverford College)
-- Introduction to Git & Github 
+- [Introduction to Git & Github](git-github.md) by Alice McGrath (Digital Scholarship Specialist, Bryn Mawr College) [slides](https://alicemcgrath.digital.brynmawr.edu/pres/git-hack.html)
 - HTML & CSS 
