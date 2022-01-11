@@ -2,13 +2,13 @@
 title: Git & GitHub
 ---
 
-# Introduction to Git and Github {data-background-color="purple"}
+# Introduction to Git and Github 
 ## Alice McGrath
 Digital Scholarship Specialist @ Bryn Mawr LITS
 
 Tri-Co Hack-a-thon || January 11, 2022
 
-# Outline {data-background-color="navy"}
+# Outline 
 
 > 1. What are Git and GitHub? Why are they useful?
 > 2. An introduction to GitHub and how to use it for collaboration
